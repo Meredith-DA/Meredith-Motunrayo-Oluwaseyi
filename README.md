@@ -13,7 +13,7 @@ I'm passionate about expanding my skils, staying current with data analysis tech
 
 
 # EDUCATION
-Bachelor of science in Logistics Management 
+Bachelor of science in Logistics Management
 Olabisi Onabanjo University (OOU), 2023
 Second Class Upper Division.
 
