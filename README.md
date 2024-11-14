@@ -1,9 +1,9 @@
-# Meredith-Motunrayo-Oluwaseyi
+
 
 # DATA ANALYST
 
 # ABOUT ME 
- I'm Meredith Motunrayo O., a Data Analyst with a strong foundation in Logistics management. my background equips me with a strong understanding of supply chain processes and operational efficiency, which i leverage to analyze data and drive strategic decision.
+ I'm Meredith Motunrayo Oluwaseyi,i'm a Data Analyst with a strong foundation in Logistics management. my background equips me with a strong understanding of supply chain processes and operational efficiency, which i leverage to analyze data and drive strategic decision.
  
 With expertise in Excel, SQL, and Powerbi, i enjoy using data to solve complex problems, uncover trends, and create visualizations that bring insights to life. My skills in data cleaning, statistical analysis, and dashboard creation help me bring clarity and acccuracy to every projects.
 
