@@ -21,7 +21,7 @@ Second Class Upper Division.
 Data analysis and Business intelligence 
 Dataleum Academy, 2023
 
-# Relevance Coursework
+# RELEVANCE COURSEWORK 
 . Data Structures 
 . Statistical Analysis 
 . Supply chain managemnt 
